@@ -3,7 +3,7 @@
 $servername = "localhost"; // Replace with your MySQL server name
 $username = "root"; // Replace with your MySQL username
 $password = ""; // Replace with your MySQL password
-$dbname = ""; // Replace with your database name
+$dbname = "ankit"; // Replace with your database name
 
 
 // Create connection
